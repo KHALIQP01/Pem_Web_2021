@@ -1,0 +1,77 @@
+body{ 
+    background: rgb(77, 75, 75); 
+    font-family: roboto; 
+    text-align: center; 
+}
+
+h1{ 
+    color: black;
+    background:rgb(185, 184, 184);
+    margin-left: 450px;
+    margin-right: 450px;
+    text-shadow: 15px 7px 5px mintcream; 
+}
+
+p{
+    color: white;
+}
+
+
+.ketengah{ 
+    margin: 10px auto; 
+    width: 1150px;
+}     
+
+.kotak{ 
+    background: #fcfcfc; 
+    padding: 20px; 
+    width: 200px; 
+    float: left; 
+    margin: 20px; 
+    height: 200px; 
+} 
+
+.HOME1{ 
+    border-radius: 50%; 
+} 
+    
+.ABOUTME1{ 
+    border-radius: 50%;
+}
+    
+.INFORMATION1{ 
+    border-radius: 50%; 
+} 
+    
+.COMMUNITY1{ 
+    border-radius: 50%;
+}
+
+
+
+
+.posisi{
+    color: black;
+    background:rgb(185, 184, 184);
+    margin-left: 550px;
+    margin-right: 550px;
+}
+
+.ketengahinfo{ 
+    margin: 10px auto; 
+    width: 1700px;
+    margin-right: 550px;
+}
+
+.fotbur{
+    background: #fcfcfc; 
+    padding: 20px; 
+    width:400px;
+    float: left;
+    margin: 30px; 
+    height: 400px;
+}
+
+.isifotbur{
+    border-radius: 10px 10px 10px 10px;
+}
